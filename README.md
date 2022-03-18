@@ -35,9 +35,9 @@
 
 <h3 align="left">▶ Languages and Tools:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com/amplify/" target="_blank">
+  <a href="https://aws.amazon.com/" target="_blank">
     <img
-      src="https://docs.amplify.aws/assets/logo-dark.svg"
+      src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg"
       alt="amplify"
       width="40"
       height="40"
