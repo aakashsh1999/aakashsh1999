@@ -275,8 +275,8 @@
 </br>
 
 <h3 align="left">▶ Stats:</h3>
-<p align="center">
-<img src="https://metrics.lecoq.io/aakashsh1999?template=terminal&config.timezone=Asia%2FCalcutta" alt="rahulmahesh62"
+<!-- <p align="center">
+<img src="https://metrics.lecoq.io/aakashsh1999?template=terminal&config.timezone=Asia%2FCalcutta" alt="aakashsh1999"
 </p>
-
-<p align="center"><img src="https://badges.pufler.dev/visits/RahulMahesh62/aakashsh19992?style=for-the-badge"</p>
+ -->
+<p align="center"><img src="https://badges.pufler.dev/visits/RahulMahesh62/aakashsh1999?style=for-the-badge"</p>
