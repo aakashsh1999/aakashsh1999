@@ -8,7 +8,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### I am a Front-End Developer at Cloudstok Technologies
 - 🔭 I’m currently working on my Portfolio Website :grin:
