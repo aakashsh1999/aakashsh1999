@@ -279,4 +279,4 @@
 <img src="https://metrics.lecoq.io/aakashsh1999?template=terminal&config.timezone=Asia%2FCalcutta" alt="aakashsh1999"
 </p>
  -->
-<p align="center"><img src="https://badges.pufler.dev/visits/RahulMahesh62/aakashsh1999?style=for-the-badge"</p>
+<p align="center"><img src="https://badges.pufler.dev/visits/aakashsh1999/aakashsh1999?style=for-the-badge"</p>
