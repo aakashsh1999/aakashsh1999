@@ -3,17 +3,22 @@
 
 ## 🧐 About
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 <h3 align="center">A passionate Front End Developer. Love to build Mobile and Web Applications with latest tech available😄
 </h3>
 
-- 🔭 I’m currently working on Cloudstok Technologies Private Limited.
+<br>
 
-- 💬 Ask me about **React, Redux, NodeJS, React-Native, Flutter**
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 📫 How to reach me **aakash.sh858791@gmail.com**
-
+### I am a Digital Specialist Engineer at Infosys
+- 🔭 I’m currently working on my Portfolio Website :grin:
+- 🌱 I’m currently learning Backend DEvelopment.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2022 Goals: Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 🧗 I try to: Go beyond and push the bounds
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
