@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aakash Sharma</h1>
+<h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">A passionate Front End Developer. Love to build Mobile and Web Applications with latest tech available😄
 </h3>
 
