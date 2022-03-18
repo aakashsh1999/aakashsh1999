@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aakash</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Aakash!+👋;I'm+a+Front+End+Developer)
+<!-- <h1 align="center">Hi 👋, I'm Aakash</h1> -->
 <h3 align="center">A passionate Front End Developer. Love to build Mobile and Web Applications with latest tech available😄
 </h3>
 
