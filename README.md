@@ -13,11 +13,13 @@
 <!-- BLOG-POST-LIST:END -->
 </br>
 
-<h3 align="left">▶ Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/aakashsh1999" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
-<a href="https://codepen.io/codebucks27" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codepen.svg" alt="codebucks27" height="30" width="40" /></a>
-</p>
+<h3 align="left">▶Connect with me:</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
+  <a href="https://www.hackerrank.com/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/h_g_d_sandakalum)](https://www.hackerrank.com/h_g_d_sandakalum"></a>
+    <a href="https://www.instagram.com/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
+    <a href="https://stackoverflow.com/users/16900340/aakashsh1999"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16900340/dananjaya-sandakalum)](https://stackoverflow.com/users/16900340/dananjaya-sandakalum"></a>
+  </p>
 </br>
 
 <h3 align="left">▶ Languages and Tools:</h3>
