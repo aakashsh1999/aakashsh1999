@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aakash Sharma</h1>
-<h3 align="center">A passionate Web developer. Love to build beautiful websites with latest tech available😄
+<h3 align="center">A passionate Front End Developer. Love to build Mobile and Web Applications with latest tech available😄
 </h3>
-
-</br>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebucks27&label=Profile%20views&color=0e75b6&style=flat" alt="codebucks27" /> </p> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebucks27" alt="codebucks27" /></a> </p> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/code_bucks" target="blank"><img src="https://img.shields.io/twitter/follow/code_bucks?logo=twitter&style=for-the-badge" alt="code_bucks" /></a> </p> -->
 
 - 🔭 I’m currently working on Cloudstok Technologies Private Limited.
 
-- 📝 I regularly write articles on [https://dev.to/codebucks](https://dev.to/codebucks) 
-
-- 💬 Ask me about **React, Redux, GraphQl, NextJS, Flutter**
+- 💬 Ask me about **React, Redux, NodeJS, React-Native, Flutter**
 
 - 📫 How to reach me **aakash.sh858791@gmail.com**
 
@@ -24,14 +15,8 @@
 
 <h3 align="left">▶ Connect with me:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/c/codebucks" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="codebucks" height="30" width="40" /></a>
-  <a href="https://dev.to/codebucks" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="codebucks27" height="30" width="40" /></a>
-  <a href="https://instagram.com/code.bucks" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
+  <a href="https://instagram.com/aakashsh1999" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
 <a href="https://codepen.io/codebucks27" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codepen.svg" alt="codebucks27" height="30" width="40" /></a>
-<a href="https://twitter.com/code_bucks" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
-<a href="https://fb.com/codebucks27" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="codebucks27" height="30" width="40" /></a>
-
-
 </p>
 </br>
 
