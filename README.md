@@ -274,7 +274,7 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-     <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png"/>
+     <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" width="30px"/>
   </kbd>
  <kbd>
   <kbd>
