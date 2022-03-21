@@ -34,6 +34,7 @@
 </br>
 
 <h3 align="left">▶ Languages and Tools:</h3>
+<p style="display: inline-block;" align="center">
 <!-- <p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
     <img
@@ -222,8 +223,6 @@
     />
   </a>
 </p> -->
-
-<p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
@@ -363,6 +362,7 @@
   </kbd>
    <kbd>
 </br>
+    </p>
 
 <h3 align="left">▶ Stats:</h3>
 <!-- <p align="center">
