@@ -34,6 +34,7 @@
 </br>
 
 <h3 align="left">▶ Languages and Tools:</h3>
+<p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
@@ -173,6 +174,7 @@
   </kbd>
    <kbd>
 </br>
+    </p>
 <h3 align="left">▶ Stats:</h3>
 <!-- <p align="center">
 <img src="https://metrics.lecoq.io/aakashsh1999?template=terminal&config.timezone=Asia%2FCalcutta" alt="aakashsh1999"
