@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Aakash!+👋;I'm+a+Front+End+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Aakash!+👋;I'm+a+Front+End+Developer;I'm+a+Mobile+App+Developer)
 <!-- <h1 align="center">Hi 👋, I'm Aakash</h1> -->
 
 ## 🧐 About
