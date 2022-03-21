@@ -34,7 +34,7 @@
 </br>
 
 <h3 align="left">▶ Languages and Tools:</h3>
-<p align="left">
+<!-- <p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
     <img
       src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg"
@@ -84,14 +84,6 @@
       height="40"
     />
   </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
 <!--   <a href="https://www.figma.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -100,14 +92,7 @@
       height="40"
     />
   </a> -->
-  <a href="https://firebase.google.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -183,14 +168,7 @@
       height="40"
     />
   </a> -->
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
+
 <!--   <a href="https://www.php.net" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -199,14 +177,7 @@
       height="40"
     />
   </a> -->
-  <a href="https://postman.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <a href="https://www.python.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -231,30 +202,9 @@
       height="40"
     />
   </a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
+ 
+ 
+
   <a href="https://webpack.js.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
@@ -271,37 +221,52 @@
       height="40"
     />
   </a>
-</p>
-</br>
-
-<h3 align="left">▶ Stats:</h3>
-<!-- <p align="center">
-<img src="https://metrics.lecoq.io/aakashsh1999?template=terminal&config.timezone=Asia%2FCalcutta" alt="aakashsh1999"
-</p>
- -->
-<p align="center"><img src="https://badges.pufler.dev/visits/aakashsh1999/aakashsh1999?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/aakashsh1999/?style=for-the-badge"/>
-</p>
-<p align="center"><img src="https://badges.pufler.dev/commits/monthly/aakashsh1999"/></p>
-
+</p> -->
 
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
+      <a href="https://www.typescriptlang.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-plain.svg" />
+    <a href="https://expressjs.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express"
+      width="40"
+      height="40"
+    />
+  </a>
+      <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+      <a href="https://postman.com" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
   </kbd>
    <kbd>
     <kbd>Mobile</kbd>
@@ -309,13 +274,9 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+     <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png"/>
   </kbd>
  <kbd>
-  <kbd>Blockchain</kbd>
-   <br>
-  <br>
-  <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
- </kbd>
   <kbd>
     <kbd>Front-end</kbd>
     <br>
@@ -323,37 +284,65 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+      <a href="https://redux.js.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
+      width="30"
+      height="30"
+    />
+  </a>
+     <a href="https://sass-lang.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> -->
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
+     <a href="https://tailwindcss.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="30"
+      height="30"
+    />
   </kbd>
   <kbd>
     <kbd>Database</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
   </kbd>
   <br>
   <br>
   <kbd>
-    <kbd>Data Science & AI</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  </kbd>
- 
   <kbd>
     <kbd>System, Networking & Deployment</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" />
+<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" /> -->
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+      <a href="https://firebase.google.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="40"
+      height="40"
+    />
+  </a>
   </kbd>
   <kbd>
     <kbd>Terminal Scripts</kbd>
@@ -367,18 +356,22 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /> -->
+<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /> -->
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
     <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
   </kbd>
    <kbd>
-    <kbd>Game Development</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-  </kbd>
+</br>
+
+<h3 align="left">▶ Stats:</h3>
+<!-- <p align="center">
+<img src="https://metrics.lecoq.io/aakashsh1999?template=terminal&config.timezone=Asia%2FCalcutta" alt="aakashsh1999"
 </p>
+ -->
+<p align="center"><img src="https://badges.pufler.dev/visits/aakashsh1999/aakashsh1999?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/aakashsh1999/?style=for-the-badge"/>
+</p>
+<p align="center"><img src="https://badges.pufler.dev/commits/monthly/aakashsh1999"/></p>
 
 ![snake gif](https://github.com/TekyaygilFethi/aakashsh1999/blob/output/github-contribution-grid-snake.svg)
 
