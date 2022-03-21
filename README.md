@@ -12,7 +12,7 @@
 
 ### I am a Front-End Developer at Cloudstok Technologies
 - 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning Backend DEvelopment.
+- 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
