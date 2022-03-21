@@ -280,4 +280,4 @@
 </p>
  -->
 <p align="center"><img src="https://badges.pufler.dev/visits/aakashsh1999/aakashsh1999?style=for-the-badge"</p>
- <p align="center"><img src="https://badges.pufler.dev/repos/aakashsh1999/aakashsh1999?style=for-the-badge"</p>
+ <p align="center"><img src="https://badges.pufler.dev/repos/aakashsh1999/?style=for-the-badge"</p>
