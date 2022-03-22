@@ -184,7 +184,7 @@
 </p>
 <p align="center"><img src="https://badges.pufler.dev/commits/monthly/aakashsh1999"/></p>
 
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aakashsh1999/aakashsh1999/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 [![Spotify](https://novatorem-tekyaygilfethi.vercel.app/api/spotify)](https://open.spotify.com/user/216fni5y42n2fs6kxbcqe6csq)
