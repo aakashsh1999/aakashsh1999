@@ -3,7 +3,7 @@
 
 ## 🧐 About
 
-<h3 align="center">A passionate Front End Developer. Love to build Mobile and Web Applications with latest tech available😄
+<h3 align="center">A passionate Full-Stack Developer. Love to build Mobile and Web Applications with latest tech available😄
 </h3>
 
 <br>
