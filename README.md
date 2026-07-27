@@ -1,106 +1,114 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+I'm+Aakash!+👋;Full+Stack+Developer;Mobile+App+Developer;Always+Learning+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=1F2937&size=28&center=true&vCenter=true&width=600&height=50&lines=Hey!+I'm+Aakash;Full-Stack+Developer+%40+Helium;Web+%26+Mobile+Builder;Always+learning)
 
-<h1 align="center">Hi 👋, I'm Aakash</h1>  
-<h3 align="center">💡 Full-Stack Developer | Building Modern Web & Mobile Experiences 🚀</h3>
+<h1 align="center">Hi, I'm Aakash</h1>
+<p align="center">
+  <strong>Full-Stack Developer @ Helium</strong><br/>
+  Building modern web & mobile products · Backend · Cloud
+</p>
 
----
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
-
-### 🧐 About Me  
-- 💻 Full-Stack Developer @ **Helium**, crafting scalable web & mobile applications  
-- 🌱 Currently diving deeper into **Backend Architecture & Cloud Technologies**  
-- 🤝 Love collaborating on **open-source projects** and with passionate devs  
-- 🎯 2024 Goal: Make meaningful contributions to the **developer community**  
-- 💬 Always happy to chat about **tech, projects, or career growth**  
-- 📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/aakashsh1999)  
-- ⚡ Fun fact: I enjoy meeting new people and exchanging ideas across domains 🚀  
+<p align="center">
+  <a href="https://aakash-sharma.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=netlify&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hello@aakashsharma.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🌐 Connect With Me
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
+
+### About me
+
+- Full-Stack Developer at **Helium**, shipping scalable web and mobile apps  
+- Deepening **backend architecture**, **APIs**, and **cloud** (AWS, Firebase)  
+- Comfortable across **React / React Native / Flutter**, Node, and modern TypeScript  
+- Open to collaborating on meaningful products and open-source  
+- **2026 focus:** stronger system design, cloud-native backends, and polished public projects  
+- Happy to talk tech, product, or career growth — [LinkedIn](https://www.linkedin.com/in/aakashsh1999)  
+- Fun fact: I like meeting people across domains and swapping ideas  
+
+---
+
+### Featured work
+
+> Pin these repos on your profile for the strongest first impression.
+
+| Project | Stack | Links |
+| --- | --- | --- |
+| **Orbit / Personal Workspace** | React, TypeScript, Firebase, Vite, Vercel | [Repo](https://github.com/aakashsh1999/Personal-workspace-) · add live Vercel URL |
+| **Helium / production work** | Web & mobile at scale | Mention in README or private demos |
+| **Your best mobile app** | Flutter / React Native | Add App Store / Play / demo GIF |
+
+---
+
+### Connect
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://www.instagram.com/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/11788531/aakash-sharma" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-F48024?style=flat&logo=StackOverflow&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/11788531/aakash-sharma" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=flat&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://twitter.com/divewithsky" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/></a>
+  <a href="https://www.instagram.com/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & tools
+
 <p align="center">
-  
-**Programming:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>  
-
-**Frontend:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>  
-
-**Mobile:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-<img src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" width="40"/>  
-
-**Backend:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>  
-
-**Database:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>  
-
-**DevOps & Tools:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>  
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" title="C"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux" title="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind" title="Tailwind"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="Sass" title="Sass"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart" title="Dart"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" title="Express"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="Firebase" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" title="AWS"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashsh1999&show_icons=true&theme=radical&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsh1999&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aakashsh1999&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsh1999&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsh1999&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsh1999&theme=default&hide_border=true" height="165" alt="GitHub streak"/>
 </p>
+
+<details>
+<summary>More graphs & trophies</summary>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashsh1999&theme=github-light&hide_border=true" alt="Activity graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aakashsh1999&theme=flat&no-frame=true&margin-w=8&margin-h=8&column=6" alt="GitHub trophies"/>
+</p>
+
+</details>
 
 ---
 
-### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashsh1999&theme=github-dark&hide_border=true"/>
+  <em>“Code is like humor. When you have to explain it, it’s bad.”</em>
 </p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aakashsh1999&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-### 🎶 Now Playing on Spotify
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=216fni5y42n2fs6kxbcqe6csq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false"/>
-</p>
-
----
-
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
