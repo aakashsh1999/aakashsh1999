@@ -2,14 +2,15 @@
 
 <h1 align="center">Hi, I'm Aakash</h1>
 <p align="center">
-  <strong>Full-Stack Developer @ Helium</strong><br/>
-  Building modern web & mobile products · Backend · Cloud
+  <strong>Akash Sharma · Software Engineer @ Helium</strong><br/>
+  Full Stack · AWS · Web & Mobile · Delhi
 </p>
 
 <p align="center">
   <a href="https://aakash-sharma.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=netlify&logoColor=white"/></a>
+  <a href="https://github.com/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/GitHub-aakashsh1999-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:hello@aakashsharma.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/divewithsky" target="_blank"><img src="https://img.shields.io/badge/X-@divewithsky-000000?style=flat&logo=x&logoColor=white"/></a>
 </p>
 
 ---
@@ -30,14 +31,17 @@
 
 ### Featured work
 
-> Pin these repos on your profile for the strongest first impression.
+> Pin these on your GitHub profile (`aakashsh1999`) for the strongest first impression.
 
 | Project | Stack | Links |
 | --- | --- | --- |
-| **Orbit / Personal Workspace** | React, TypeScript, Firebase, Vite, Vercel | [Repo](https://github.com/aakashsh1999/Personal-workspace-) · add live Vercel URL |
-| **Helium / production work** | Web & mobile at scale | Mention in README or private demos |
-| **Your best mobile app** | Flutter / React Native | Add App Store / Play / demo GIF |
-
+| **Orbit — Personal Workspace** | React, TypeScript, Firebase, Vite, Vercel | [Live](https://personal-workspace-eight.vercel.app) · [Repo](https://github.com/aakashsh1999/Personal-workspace-) |
+| **Portfolio Website** | JavaScript | [Repo](https://github.com/aakashsh1999/portfolio_website) · [Site](https://aakash-sharma.netlify.app/) |
+| **Law Firm Site** | TypeScript, Next/React, Vercel | [Live](https://law-firm-site-pi.vercel.app) · [Repo](https://github.com/aakashsh1999/Law-firm-site) |
+| **BP Law Admin** | TypeScript, Vercel | [Live](https://b-plaw-admin.vercel.app) · [Repo](https://github.com/aakashsh1999/BPlawAdmin) |
+| **Masin Chat App** | TypeScript, Vercel | [Live](https://masin-chat-app.vercel.app) · [Repo](https://github.com/aakashsh1999/masin_chat_app) |
+| **Crypto Info App** | Flutter, Dart | [Repo](https://github.com/aakashsh1999/Crypto-info-App) |
+| **Warehouse (Redux)** | React, Redux, JavaScript | [Repo](https://github.com/aakashsh1999/warehouse-redux) |
 ---
 
 ### Connect
